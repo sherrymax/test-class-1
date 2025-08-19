@@ -1,0 +1,40 @@
+﻿, The Impact of the Discount Rate on the Estimated Pension Liability using Various Durations ,,,,,,,,
+," (yellow = input cell, green = result, $ = billions) ",,,,,,,,
+,,,,,,,,,
+,1,2,3,4,5,6,7,,
+, Official ,, Moody's ,,,,,,
+,,,,,,,,,
+, 724 , 724 , 724 , 724 , 724 , 724 , 724 ,, Reported Total Pension Liability (present value) 
+,,,,,,,,,
+, 13 , 13 , 13 , 13 , 17 , 17 , 17 ,, years to project forward (duration) 
+,7.5%,7.5%,7.5%,7.5%,7.5%,7.5%,7.5%,, forward projection interest rate (official rate used by pension funds) 
+,,,,,,,,,
+," 1,855 "," 1,855 "," 1,855 "," 1,855 "," 2,477 "," 2,477 "," 2,477 ",, Liability projected forward (future value) 
+,,,,,,,,,
+, 13 , 13 , 13 , 13 , 17 , 17 , 17 ,, years to discount back to the present 
+,7.5%,6.2%,5.5%,4.5%,6.2%,5.5%,4.5%,, discounting back to the present interest rate (various lower-risk rates) 
+,,,,,,,,,
+, 724 , 849 , 925 ," 1,047 ", 891 , 997 ," 1,172 ",, Moody's Adjusted Total Pension Liability (adjusted present value) 
+,,,,,,,,,
+, -   , 124 , 200 , 322 , 166 , 272 , 448 ,, Change in Total Pension Liability 
+,0%,17%,28%,44%,23%,38%,62%,, % increase/(decrease) in Total Pension Liability 
+,,,,,,,,,
+, 596 , 596 , 596 , 596 , 596 , 596 , 596 ,, Reported Total Pension Assets 
+, (128), (252), (329), (450), (295), (401), (576),, Surplus / (Deficit) 
+,82%,70%,64%,57%,67%,60%,51%,, % Funded 
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,Questions:,,,,,
+,,,, Why is the liability projected 13 years - what is the basis of this?  The MORE years the GREATER the impact of lowering the discount rate ,,,,,
+,,,, What are the other choices of discount rate based on? ,,,,,
+,,,,,,,,,
+,,,,Definitions:,,,,,
+,,,,Reported Total Pension Liability = the present value of all future obligations to pay retirees,,,,,
+,,,,Liability Projected Forward = the estimated actual value in future dollars of all future obligations to pay retirees,,,,,
+,,,,,,,,,
+,,,,References:,,,,,
+,,,,http://www.californiapublicpolicycenter.org/the-impact-of-moodys-proposed-changes-in-analyzing-government-pension-data/,,,,,
+,,,,http://www.gfoa.org/downloads/GFOA2012Moodyspensionreport.pdf,,,,,
+,,,,http://siepr.stanford.edu/system/files/shared/Nation%20Statewide%20Report%20v081.pdf,,,,,

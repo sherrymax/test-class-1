@@ -1,0 +1,210 @@
+Received: from sn6pr03mb3534:444 (fe80::619e:39f8:d911:7ced%3) by
+ SN6PR03MB3534.namprd03.prod.outlook.com with HTTP; Mon, 10 Dec 2018 19:45:27
+ +0000
+Received: from SN6PR03MB3534.namprd03.prod.outlook.com
+ ([fe80::619e:39f8:d911:7ced]) by SN6PR03MB3534.namprd03.prod.outlook.com
+ ([fe80::619e:39f8:d911:7ced%3]) with mapi id 15.20.1404.026; Mon, 10 Dec 2018
+ 19:45:26 +0000
+From: Ganessan Paramanathan <ganessan.paramanathan@alfresco.com>
+To: Ganessan Paramanathan <ganessan.paramanathan@alfresco.com>
+Subject: Transfer request from "Institutional Trust Account" to "Regular
+ Account"
+Thread-Topic: Transfer request from "Institutional Trust Account" to "Regular
+ Account"
+Thread-Index: AQHUkMDlReOndTqUv0Sbxaq0cJJOLA==
+Date: Mon, 10 Dec 2018 19:45:26 +0000
+Message-ID: <A328C039-37BF-4B93-8AE6-4CA766EF2144@alfresco.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <A328C039-37BF-4B93-8AE6-4CA766EF2144@alfresco.com>
+MIME-Version: 1.0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SN6PR03MB3534.namprd03.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [2605:6000:f3c7:6200:1ca6:7e85:cc62:91fb]
+X-MS-Exchange-Organization-Network-Message-Id:
+ d0de295a-116f-4316-5090-08d65ed8088f
+X-MS-PublicTrafficType: Email
+X-Microsoft-Exchange-Diagnostics:
+ 1;SN6PR03MB3534;35:PUb6lOCSqgdpQ8mH1ebSRc7ij+n9VfzVWC+IhArd6XiOxsScJ2UK8F8ehIRgJzkkPoqRWwM2r7S1z9RSNScQaQ==;38:ZI5LhsaUI6mDua8Qu25+F6jiE8SoRqjxFwCC9sxN+RthxQsGPqwJUf8s3C1Y2JWk7qEHFSC3vKiEDPIYw/NG0ypSDn5PSMKzPbU1zm0eE9gnYJERa9KTXXNO9KLrdx1bxQ1F9FLsQ0oXr9CurFb+oVTcer3+Z0NRCDLcnqt/rJTGIQWD9DxSNh8UUJR/bgYivIYns1QuwHSCcLkH5f+jR7GaHG9eashiXUMHiHexHWmiPIrLHZiZ4xIrVBPSdXjd;39:BNzd0OH6ypg5CWnraczl+eMRqpkox9OCX0fkarDMkGcscbRW+KJdw8hT891E1BIz76Emfcs41QMcIJ7FrBbwh1H7OvmzdZXFRTpz4U+GpF7tWDcK6hIXefCl7Do8LGzSwbEysf7xJAlOnwywEvbMWhGMspqqN1jMdByFOieivMuuqrDR9TnmXhP+gLZ3deCqn1IZiH4vzqT3r7LsIzKs7X4H0aQotZu6l6a9IbHpZVEJd3GIE4N5CjMLD7oA2f/P
+X-MS-Exchange-Antispam-SRFA-Diagnostics: SOS;SOR;
+X-IPW-GroupMember: False
+X-Microsoft-Exchange-Diagnostics:
+ 1;SN6PR03MB3534;20:Tl18p/8kr6Pa4Zcsx0ttMWSihqURHQT8FWmnhuD89+munRAENAAumMBNfVRNf8v2RF+my+/7eFjKyXEa3oLpN+4zs9I6tjcRvQ5vp9r7fQxN8JOG8ZimAyWpQ5Rj8a70useX6LoVQbMVMuyOF/x90QAKzIgEMLtLhzsJpFNiM64H8X1ecOS1J2hfKcaU/MlYamwZPtxPxP7BiExqGKvi4icnpE62pdj8agjVzLVFpFkCjJ/4WAZ1g2Y4+lEiovuPMVsqHio78HsY3paNtNtWW/D+K5WAldVFCmLR/vh0bSRYSoe9v22UyM5eavzxvjttgbsJk0girqx2lUdcQ2ay6Ogyh7Bo2AubJ4TWQbj5a/sSdLfdd+sblUX96iQZ378om3NzJNWE8MPxmixgdp45pifZI/SMJjAAMw9jjDUWGhXmYlVmGa2GQotRObtHp4XAi3CCg9q20uv1pzuWMCeUe6L/TA0Lcg8dfyIpN6hqMsNbvHHQE2v0ikhtrtOVYcdX+KCCq4LoJPArTIj/G4hWmcBNZmI0y4SVWxbovrKO5iJZ6g94KhFpESnBLuC6XpVtpSCRZF3Rulcj2yx8Zrvr8r/c6uM7mYJIHy1binbpHe8=
+X-MS-Exchange-Organization-Antispam-Report: SFV:SKI;SCL:-1;
+X-Forefront-Antispam-Report: SFV:SKI;SCL:-1;
+Return-Path: ganessan.paramanathan@alfresco.com
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2422652
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.1404.009
+X-Microsoft-Exchange-Diagnostics:
+	1;SN6PR03MB3534;9:ThkkyVoDKex6ZST6aI7c05b4/PTsigFGbf0dXbvTpm9G1zgC6XBsIO61l99C2heIKoapZry54wjEfQbgtPD1yEcRI4xfxeTTWhpG1X6IBbsqf4R3Bb6vK4uLLrsNL/ur
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;ex:0;auth:0;dest:I;ENG:(750119)(520011016)(706158)(944506303)(944626516);
+X-Microsoft-Antispam-Message-Info:
+	J8ebEJE1TL/WHFXeeiBOSI0lQJG1UmTT+yr6dYqpxpeGY58JVmJHc+gUhyZvjn6G0Me3z4hM9tJR6mYqVDKRlZ5MdyNNBXz0IPU+NvmnFWw2PHbDoQZIoEx0l8547rIu
+X-Microsoft-Exchange-Diagnostics:
+	1;SN6PR03MB3534;27:/r2wPQqRXXBySkLb7nYfAR+78Uf5HUy9gzm/vRTJAYsCsuQzUACum/T3TAxfMy/vqhn52mfxdme/7VusQIdk0LqZDWPs18Mu1KHZKqXgqxgfwJVl/jxYuHFSQWFkBLCLczC1t7yVWHtVaQVk3MhcUpuMmwAWSGdaOuPT4DBL0tLO7jdAm03B8nD9K4QRgZ+KIlAJ9MzwkgGpLv//hwcR5XikmPKmAqAG+YTdxoA0hqmYjc5PXzhsLY/C9/zdCoxYM4LgpQIJpZBBsg7HRjPNbIL+exn4r/z25xELcGP9SSrrrssLKNdBIN9oJlbkhF0FBkXQt71V5KwXAUpV3UmIPckI0Jjq2FMLlOKPg9mjq/4D7uGRg7vg9o6ug4c+vF8MHASwi6cR8uNzByfVZhQUQA==
+Content-type: multipart/alternative;
+	boundary="B_3627294357_1796308726"
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3627294357_1796308726
+Content-type: text/plain;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+Customer=E2=80=99s Name: John Smith       =20
+Customer=E2=80=99s Address: 123 Smith St,
+City, State, Zip Code : New York
+Account Number : 1111-111-1111
+
+
+
+Bank Manager=E2=80=99s Name : Gabby Sanchez
+Bank=E2=80=99s Name: Wells Fargo
+Manager=E2=80=99s title: Bank Manager
+Bank=E2=80=99s Address
+City, State, Zip Code
+
+Dear Name of Manager,
+
+This letter is a formal request for you to transfer $1,000 from my institut=
+ional account to my checking account. I understand there is no fee for this =
+transfer.
+
+Another possibility:
+
+This letter is a formal request for you to transfer $1,000 from my savings =
+account to the account of NAME in your branch in CITY. The number of the acc=
+ount to receive the money is NUMBER and the name of the account holder is NA=
+ME.  Any fee for this transfer can be deducted from my savings account.
+
+Enclosed with this letter is the forms I downloaded and printed from the Na=
+me of Bank website for the transfer of funds. I appreciate your timely atten=
+tion to this transfer. If you have any questions, I can be reached at 555-12=
+3-4567  or at Name@email.com.
+
+Sincerely, Signature of Customer
+
+John Smith
+
+=20
+
+=20
+
+
+--B_3627294357_1796308726
+Content-type: text/html;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsof=
+t-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" xmlns:m=
+=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org=
+/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:13.5pt;font-family:&quot;Arial&=
+quot;,sans-serif;color:#2A2A2A;background:white">Customer=E2=80=99s Name: John Smi=
+th&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"font-size:13.5pt;font-family:&quot;Arial&quot;,sans-ser=
+if;color:#2A2A2A"><br>
+<span style=3D"background:white">Customer=E2=80=99s Address: 123 Smith St,</span><b=
+r>
+<span style=3D"background:white">City, State, Zip Code : New York</span><br>
+<span style=3D"background:white">Account Number : 1111-111-1111</span><br>
+<br>
+<br>
+<br>
+<span style=3D"background:white">Bank Manager=E2=80=99s Name : Gabby Sanchez</span>=
+<br>
+<span style=3D"background:white">Bank=E2=80=99s Name: Wells Fargo</span><br>
+<span style=3D"background:white">Manager=E2=80=99s title: Bank Manager</span><br>
+<span style=3D"background:white">Bank=E2=80=99s Address</span><br>
+<span style=3D"background:white">City, State, Zip Code</span><br>
+<br>
+<span style=3D"background:white">Dear Name of Manager,</span><br>
+<br>
+<span style=3D"background:white">This letter is a formal request for you to t=
+ransfer $1,000 from my institutional account to my checking account. I under=
+stand there is no fee for this transfer.</span><br>
+<br>
+<span style=3D"background:white">Another possibility:</span><br>
+<br>
+<span style=3D"background:white">This letter is a formal request for you to t=
+ransfer $1,000 from my savings account to the account of NAME in your branch=
+ in CITY. The number of the account to receive the money is NUMBER and the n=
+ame of the account holder is NAME.
+ Any fee for this transfer can be deducted from my savings account.</span><=
+br>
+<br>
+<span style=3D"background:white">Enclosed with this letter is the forms I dow=
+nloaded and printed from the Name of Bank website for the transfer of funds.=
+ I appreciate your timely attention to this transfer. If you have any questi=
+ons, I can be reached at 555-123-4567
+ or at&nbsp;Name@email.com.</span><br>
+<br>
+<span style=3D"background:white">Sincerely, Signature of Customer</span></spa=
+n><span style=3D"font-size:11.0pt"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">John Smith<o:p></o:p></=
+span></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">&nbsp;<o:p></o:p></span=
+></p>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+
+--B_3627294357_1796308726--
+

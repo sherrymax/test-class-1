@@ -1,0 +1,20 @@
+{
+  "name": "@alfresco/adf-governance",
+  "version": "0.0.1",
+  "license": "See license in LICENSE file.",
+  "peerDependencies": {
+    "@angular/common": "^14.1.0",
+    "@angular/core": "^14.1.0",
+    "@alfresco/aca-shared": ">=4.0.0 <=5.0.0-0 || >=4.3.0-0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alfresco/alfresco-applications.git"
+  }
+}

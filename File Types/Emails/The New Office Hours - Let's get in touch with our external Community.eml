@@ -1,0 +1,346 @@
+Received: from BN6PR03MB2755.namprd03.prod.outlook.com (2603:10b6:805:3e::21)
+ by SN6PR03MB3534.namprd03.prod.outlook.com with HTTPS via
+ SN6PR04CA0008.NAMPRD04.PROD.OUTLOOK.COM; Mon, 4 Jun 2018 09:31:22 +0000
+Received: from BN6PR03MB3235.namprd03.prod.outlook.com (10.174.233.26) by
+ BN6PR03MB2755.namprd03.prod.outlook.com (10.173.144.138) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.820.11; Mon, 4 Jun 2018 09:31:16 +0000
+Received: from BN6PR03MB3235.namprd03.prod.outlook.com
+ ([fe80::101b:fbb7:8af:9ce]) by BN6PR03MB3235.namprd03.prod.outlook.com
+ ([fe80::101b:fbb7:8af:9ce%2]) with mapi id 15.20.0820.012; Mon, 4 Jun 2018
+ 09:31:16 +0000
+Authentication-Results: alfresco.com; dkim=none (message not signed)
+ header.d=none;alfresco.com; dmarc=none action=none header.from=alfresco.com;
+Received: from BN3PR03MB2338.namprd03.prod.outlook.com (10.166.74.145) by
+ BN3PR03MB2211.namprd03.prod.outlook.com (10.166.74.8) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.820.11; Mon, 4 Jun 2018 08:54:21 +0000
+Received: from BN3PR03MB2338.namprd03.prod.outlook.com
+ ([fe80::ad7d:98ee:2b8b:c11e]) by BN3PR03MB2338.namprd03.prod.outlook.com
+ ([fe80::ad7d:98ee:2b8b:c11e%2]) with mapi id 15.20.0820.015; Mon, 4 Jun 2018
+ 08:54:21 +0000
+From: Francesco Corti <francesco.corti@alfresco.com>
+To: Alfresco All <alfresco-all@alfresco.com>
+CC: Kristen Gastaldo <kristen.gastaldo@alfresco.com>
+Subject: The New Office Hours - Let's get in touch with our external
+ Community.
+Thread-Topic: The New Office Hours - Let's get in touch with our external
+ Community.
+Thread-Index: AQHT++GghUtRDXMRa0G5WbPiieZAUA==
+Date: Mon, 4 Jun 2018 08:54:20 +0000
+Message-ID: <54AA9C6F-5621-48B9-8A4E-E0FE301F4A9A@alfresco.com>
+Accept-Language: en-GB, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator: <54AA9C6F-5621-48B9-8A4E-E0FE301F4A9A@alfresco.com>
+user-agent: Microsoft-MacOutlook/10.d.1.180523
+MIME-Version: 1.0
+X-Originating-IP: [31.156.194.30]
+X-MS-PublicTrafficType: Email
+X-Microsoft-Exchange-Diagnostics: 1;BN3PR03MB2338;35:BCl81rDdKxM7RkLMVYJu5+fvt83aX+O+phTMLmLpJkdGXhuDL/36pCVdFwS665VeKtfEyzMUNbzqCZXV4mx6NQ==;38:lNGAp+60rbU4MUXVAaR0naxdhTOcyceNK5vBDhNCGurDi83LinMhGMHTLmHrRJMedumBVlmIc8dkofMY2DWKygngZ++I+aDxOzJzNxtruRHF3eDspKi28nQIEQawM7o3nAII199qlb0mZRVFou+kITD3JFU487RlAkosvkq6HTw09V70MQzwr+1y8LGEaLgVlDBRU6wxQ7g/Vd6YSguxWAm2rrmLTFBCSwQ0uml3GwlrtjBM+rwarCN2FTNHrSZG;39:zcX/ppSAwrtBSeHnVqeaqb78evpxBw2gw979v7pVOMhuWqyPRzD13MvaWwwbl6725Rwg/4GigqRYxDq0e78V2meWIsgMkLV2AtMixKW1kwgOAZpxUjy33nNDE3FBmNlx1usdktpYV0g6B/8pX1OeimnO32nr52KXVRFrCnsZ+RJxGHj6HIfXDvzDpM3zGAxZ+1OE7Exbvq2muoTK+nT28REaXhlPvFwYuUBT9G7pOHtuU0GoofFTKiE5+fG/r1Jc
+X-MS-Exchange-Antispam-SRFA-Diagnostics: SOS;SOR;
+Return-Path: francesco.corti@alfresco.com
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:(7020095)(4652020)(5600026)(2017052603328)(7153060)(7193020);SRVR:BN3PR03MB2211;
+X-Microsoft-Exchange-Diagnostics: 1;BN3PR03MB2211;3:u5pxrGn9MzOCj/OnDQY3D0QBhQX30UNLuIw1b2xjpzHLhtyj4qRJ6oOF5z/mYlaYa79EBZtBu42zJzmHnmrWMIcmKkPMnJvuHbyC8mh/apgbBceIYSh5iPnet0Ky8o7sLuR1gtXBV4CB07yJ6WR52OjGjdFInIu5Z9PJg2DW7phZ827QDPpjX0s9/P3YAdU/QuO0IjD4iOqDCcpieR7tpXSaV5i3PVjBMcD+kNncoQ4VKbIdCYcQtyI7UFv0yqFp;25:k7pSaoExeugKvVcOQGxe7MPUJnvISLJMiHs71yTlqiO5w5R8EIJHKoCzgij1LhUfMtu/ZRcEnuG3AJgksKRDtYim0QnRFiJsHpoAPxEsbDQ6+iFkBVYPB6jRgzCuuCh5BrVKTV4gz/bZSRWxaWxjTDcQp13mrX0XPeQBtuLapCCHPIFX2PLTRnlSV/1nI1Qkz0+bFjEjlGFd5BX9ZX+XyLiIVHromadlImwD5g5l1EjwXabEsbeIYaeZLDGb5GTg7p5yaPGNPZ4aNrLJ6SURdTyeUuYcPHrcap2j0GdMS0J9KdjfKXBXFVVbWY8WeDvhnX2KiGrhEJHPwIW4qgv5LQ==
+X-MS-TrafficTypeDiagnostic: BN3PR03MB2211:|BN6PR03MB2755:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: BN3PR03MB2338.namprd03.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: b9c058fb-970a-4475-afbb-08d5c9f8c373
+X-MS-Exchange-Organization-ExpirationStartTime: 04 Jun 2018 08:54:21.1923
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: Original Submit
+X-MS-Exchange-Organization-ExpirationInterval: 2:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: Original Submit
+X-Moderation-Data: 6/4/2018 9:31:00 AM
+X-Microsoft-Exchange-Diagnostics: 1;BN6PR03MB3235;35:cjLaWJi6eRYYohNy7N7UeXW9i+tSPbmfqqKBDYjQETbozV2UG1i3jJ9RXPlOnjMqrxqfgEr4KrxNgTcrIMEBBg==
+X-Microsoft-Exchange-Diagnostics: 1;BN6PR03MB2755;31:FkspTO/1PcEwFlW2zLbhRfqUhV7R8R0vFhQIypBh45/iP5lKzw4yQ4kttzrwJzMRBvI+iuTpv6v+xWvjpv86mCMCYpMreOg6y7xrwYeRJKEx35bJHP1LmTo+aL0yufZX8xrZhAkZJlHUKBF+4Yl/s4ScMGi+NuG546iIv5EwNVSyHiwQCtmIXdPj3ADAgY8bw5lzFn7G1CgP8B37RNvuKQO3fiY9gbgG94kY8JBphd8=;20:0wRvih5lr8bxbIlDAnI8izTpxhHPQVX+UjShABnsqyYpepUvjH8gfXfKY/tQoeYmO7aoe+8oBJ3uQsPlHWu1hP9dkybu9mrJ7xalOwutpyg8GDaywFlICj7sdIZxXWYkDUVCY0JQa7x2JdJoLDE+doDqUTjpwLt3dThnv42AtcnfIQTw62ZHFRiFNy6y7KwW3WUHW82pIn5r1+vMTSaKDZbJCsgab7XWZ9UsMK9YeH9BjOeHD+HXrZWWSlab+llxlkZantItAwIrRMI9vaO0dhOxdVWWlMWHdFcASDGjYu9rnscYTzgYe0UWW75YW/IfLZqjx1/QRHlk3eNdklLJqVZea2yhnDvRAi/+Ym1/W1a1Xe2BpmqeA9MSIEouE7wBsBI3exJ3JyhvBE/gr9Av/ATWrxoVDoF9o9uSaCjYOLP9JntEIoOxXoAfdAy1yhZGPpFK2YsEUjdj3fdzxRYeJoj90T9t3t7sl3doqjXh0mGXGsSEaAORDIFLaJk1s8BJ
+X-Exchange-Antispam-Report-Test: UriScan:(28532068793085)(21748063052155)(5213294742642)(21532816269658);
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(9101524173)(2401047)(8121501046)(823300264)(823310115)(3002001)(3231254)(944501410)(52105095)(93006095)(93001095)(10201501046)(201708071742011)(7699016);SRVR:BN6PR03MB2755;BCL:0;PCL:0;RULEID:;SRVR:BN6PR03MB2755;
+X-Microsoft-Exchange-Diagnostics: 1;BN6PR03MB2755;4:UEygJQx1c3BJQGAjvM9NQlKT6jQlUoUiJutVNhbwXAjzIvNvaKZZopxwfwROIT46YHd+XamVcqsCfdOb7Ssts2kp+4KQp1SW5o+s3dObuhJWVuKwXYm3VeLhj+EG0fQv7QMh1ZtmZp2Dn8jZOot9RciwVU5w/d5sTO0TxlSJgV9VD8fmokWzyzHqr1X4/i6h5z0UymXf9NwAahUkuxHkM5GbGsq5XcMR1zCw2GaLiLnyVcebTamI6JKWptCQ7pUDRaLcPUN8BKLkeHc7q1v8SRboevuHb7ghQg1pkyRG0oBRphP3hUGKSDLDCFWVeJ/CTDJ1OykL+ISU/Eh6cBJVhCjppbA5D6I8FAg5OmeolXQg7IWit/jCags6Q6aA0Nw4pCRo4I86ouLSVf1x1ggDiUidgV6EjKBzLuT83lXQ8GM=;23:jhzIOPiU0sD689u2qchZQFeWrpUCrhPW/zjENr7ROSyQ5BCNyB7u0KsLSoN5tA+ob0zaHmLZ3V4g0OjxEfseR2TloGF0Gu1OixLq6lvLEhCQbSbXai6SD+iww0QnjCiTQ7f/9MmsAy5xTD8jPM8GjA==
+X-Forefront-Antispam-Report: SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BN6PR03MB2755;H:BN6PR03MB3235.namprd03.prod.outlook.com;FPR:;SPF:None;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;BN6PR03MB2755;6:H3y6fOnpuOOowXDq6WDzcaugx4fUHbDUpedRYsbC4z1wDkcdfx6FZehr+i8JNjqrzl3tLZFF5+dyon2TnBy0zFEsq6PDsPTvyIP92AIcgiwLpOevZ3TUicAPqt7wY9tApFe5ROQd6NTnKVFjbUihhEosuhKqWys57tYQi6UbRw1Z4EZFCA9FonrlzhfO/4CGDOg8i2vV5p0AndIdCqXxBfyEZ4aZPqbVqy8GrGnwLVdG+2jR9DpKMMp6LhhiaZb9yUk7bkI6F0yKdLb5stpQdD5YaAMWtEnImKlyLJolY5uSBOx+3VAF4hh8u7r45znMFNLYf09DI1UXhmoLuJO7w2neZbxOlUa+HgrslU2iBKYs4qsurDyS8+I66cwodBvRmSUUD1I2hb0KR8Z5apC5wz5GF8K2ewHJSW6Ud//LVit832TC5judOG/SB1W9Vtfas6I4BdUc4C4Kao+LFgA7Zg==;5:0mHapyVT2yQodYHEiLXNSb8L3AZJZtz9yyhumULd2v0mml70lFsGiLLXLBKbz1/wPtue5bhSsZJGt+jME2Eshd7FQteY1O60cHAIyWkg/wfxyMIH7UlaGEd0vBI4TIkI6J/6eGC0TRoQxvu1QnE9qxccP+NVStieJLbkTjd6szU=;24:bp/xCJGX3itOoMCZh3HNCnozchk4rm+H8OyBFww83qg4Z1iacAmI3hEsE/1B2QL/PKKzJQsJV3+AU40ysXNGkUcDtwPJmlmM/PE4StgoNaQ=
+SpamDiagnosticOutput: 1:0
+X-Microsoft-Exchange-Diagnostics: 1;BN6PR03MB2755;7:fHZiURsdicNkQiPd3umz45VL2J8RG2SXBBsDXq07e67pNfpe+x+/L4Sv6mvlX1kj1v3qFSm+WIyyzonGZ/6xI1m8KHbCGyd5fSJ0HPCbCsSyGt6ZnWoPf3nyr113fQZuF8EgIOrPqgh9TstPhrNUv8GQRMNcIlDHQPUbAkn65Iqxv+GmBfX4gZphkIRJmpi+HTCNzWsr+/aymQ67XyDyD9MrCnZq0L72D98zB9bhsjJO8UkadVIL2koZ6UTySGMt
+X-Auto-Response-Suppress: DR, RN, NRN, OOF, AutoReply
+X-MS-Office365-Filtering-Correlation-Id: b9c058fb-970a-4475-afbb-08d5c9f8c373
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: a92a627e-e9ce-48ba-8edb-6c64a4dbcf34
+X-MS-Exchange-CrossTenant-Network-Message-Id: b9c058fb-970a-4475-afbb-08d5c9f8c373
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 04 Jun 2018 09:31:16.1912
+ (UTC)
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN6PR03MB2755
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:06.8061599
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.0820.012
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ex:0;auth:0;dest:I;ENG:(750118)(520011016)(706028);
+X-Microsoft-Exchange-Diagnostics:
+	1;SN6PR03MB3534;9:KaQucu1djmhejyl6Zu7E91a3utXqTDL3jnC8b5B0qOTaw/BTw1fjwd/1xcBeOji4r3s5WC5591I4rq/o1tSIyLB1tgBx/STaTzcWkV5WEpkETCfczf7tp2CCrz5ADQhzndlnhPTxp0wwKjWuUxYl4+vy3YHqYQ/oPM60lowdmwKipmw/YNxSUzyXrGE4jESgDycHo1N5LLr9oUPYXnWhTWMdbA+HyE0jkXK7RnFWVegnJ+Mu+RP3QehmGgRrNwyXC76zdfkN3jpWgNLI6EIHjGp4pziEwRC2qdUPrDWQvvk=
+X-Microsoft-Antispam-Message-Info:
+	xRhfgAwSK5HrjGBRvhaqoS++FrCmPXoMjxPF7HxMB9X7uy2tGRxaEbh+ebKCeeK4aR1ZOy+O7Y9F3ftZ9nDdrALMCN5fjUNBRi4xbF38YdqGcleBqKYx/LAxhYc2WetFjFcLR+rNXPnP1GWBc3ypbEaJWuKlZ9xC6OEJFK9Ttj+Rlk56AmHLK9Z4hWGPch0P
+X-Microsoft-Exchange-Diagnostics:
+	1;SN6PR03MB3534;27:P5GhcL0SSeJtbjnAwV6aBIr2yY0mXPr6i0e+Sf9pmO96BpGscgrd0FnuH5XBxWNQlkEtIjMFIHCi1m/Xs42b6UnMKFUbc8KE6+hg0cukFyR3RrhrvSUds/d5qIjbzRAx
+Content-type: multipart/alternative;
+	boundary="B_3613024444_1723715258"
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3613024444_1723715258
+Content-type: text/plain;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+Hi Alfrescan,
+
+=20
+
+I hope you had a nice weekend and a better week in front of you.
+
+
+What/Where/Why
+
+=20
+
+Recently with @Kristen Gastaldo, we decided to reshape one of the monthly w=
+ebinar named Office Hours to engage more with our external Community of deve=
+lopers and Tech Enthusiasts. We will be opening a weekly call in Zoom, where=
+ everyone can come if he/she needs help or wants to offer help. Or maybe if =
+he/she wants to meet other Alfresco  enthusiasts and talk about his/her proj=
+ects or plans.
+
+=20
+
+It will be a time where me and Kristen (at least) will be present, hopefull=
+y along with other Alfrescans (based on your availability).
+
+No planned content.
+
+No slides.
+
+No predefined agenda.
+
+No preparation required.
+
+Only a room where to enter, meet and have a chat.
+
+=20
+
+You can find more info here:
+https://community.alfresco.com/community/connect/blog/2018/06/01/the-new-of=
+fice-hours
+
+=20
+
+Who
+
+=20
+
+All Alfrescans, Partners, Customers, Alfresco enthusiasts, newbies are invi=
+ted to join us.
+
+Engineers, Pre-Sales, Support, Sales, Education, Marketing =E2=80=A6 everyone is =
+welcome there.
+
+=20
+
+Please spread the word internally and externally to let everyone know about=
+ this nice opportunity to stay all together and get in touch.
+
+=20
+
+When
+
+=20
+
+We will start next Thursday, 7th of June at 5:30 CEST for one hour (the Zoo=
+m link will be shared soon).
+
+We plan to do it every week.
+
+=20
+
+Disclaimer
+
+=20
+
+You probably imagine that this won=E2=80=99t be the place to =E2=80=9Csolve problems=E2=80=9D=
+, but it will be the place to meet and talk.
+
+Me and Kristen will be clear with all the attendees, but we all think it is=
+ a nice opportunity to be more open and transparent with our external Commun=
+ity of enthusiasts.
+
+=20
+
+Looking forward to see you there.
+
+=20
+
+Cheers,
+
+=20
+
+-Francesco
+
+
+
+--B_3613024444_1723715258
+Content-type: text/html;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:schema=
+s-microsoft-com:office:word" xmlns:m=3D"http://schemas.microsoft.com/office/20=
+04/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 2.0cm 2.0cm 2.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style>
+</head>
+<body lang=3D"IT" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">Hi Alfresc=
+an,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt"><o:p>&nbsp=
+;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">I hope you=
+ had a nice weekend and a better week in front of you.<br>
+<br>
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:11.0pt">What/Wh=
+ere/Why<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt"><o:p>&nbsp=
+;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">Recently w=
+ith <a id=3D"OWAAM7AE81782BBBE6D4CA817CE2DC1D2B5B2" href=3D"mailto:kristen.gasta=
+ldo@alfresco.com">
+<span style=3D"font-family:&quot;Calibri&quot;,sans-serif;text-decoration:non=
+e">@Kristen Gastaldo</span></a>, we decided to reshape one of the monthly we=
+binar named
+<b><u>Office Hours</u></b> to engage more with our external Community of de=
+velopers and Tech Enthusiasts. We will be opening a weekly call in Zoom, whe=
+re everyone can come if he/she needs help or wants to offer help. Or maybe i=
+f he/she wants to meet other Alfresco
+ enthusiasts and talk about his/her projects or plans.<o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt"><o:p>&nbsp=
+;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">It will be=
+ a time where me and Kristen (at least) will be present, hopefully along wit=
+h other Alfrescans (based on your availability).<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">No planned=
+ content.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">No slides.=
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">No predefi=
+ned agenda.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">No prepara=
+tion required.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">Only a roo=
+m where to enter, meet and have a chat.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt"><o:p>&nbsp=
+;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">You can fi=
+nd more info here:<br>
+<a href=3D"https://community.alfresco.com/community/connect/blog/2018/06/01/t=
+he-new-office-hours">https://community.alfresco.com/community/connect/blog/2=
+018/06/01/the-new-office-hours</a><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt"><o:p>&nbsp=
+;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:11.0pt">Who<o:p=
+></o:p></span></b></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt"><o:p>&nbsp=
+;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">All Alfres=
+cans, Partners, Customers, Alfresco enthusiasts, newbies are invited to join=
+ us.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">Engineers,=
+ Pre-Sales, Support, Sales, Education, Marketing =E2=80=A6 everyone is welcome the=
+re.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt"><o:p>&nbsp=
+;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">Please <u>=
+spread the word internally and externally</u> to let everyone know about thi=
+s nice opportunity to stay all together and get in touch.<o:p></o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt"><o:p>&nbsp=
+;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:11.0pt">When<o:=
+p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt"><o:p>&nbsp=
+;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">We will st=
+art next Thursday, 7<sup>th</sup> of June at 5:30 CEST for one hour (the Zoo=
+m link will be shared soon).<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">We plan to=
+ do it every week.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt"><o:p>&nbsp=
+;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:11.0pt">Disclai=
+mer<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt"><o:p>&nbsp=
+;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">You probab=
+ly imagine that this won=E2=80=99t be the place to =E2=80=9Csolve problems=E2=80=9D, but it wi=
+ll be the place to meet and talk.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">Me and Kri=
+sten will be clear with all the attendees, but we all think it is a nice opp=
+ortunity to be more open and transparent with our external Community of enth=
+usiasts.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt"><o:p>&nbsp=
+;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">Looking fo=
+rward to see you there.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt"><o:p>&nbsp=
+;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">Cheers,<o:=
+p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt"><o:p>&nbsp=
+;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">-Francesco=
+<br>
+<br>
+<o:p></o:p></span></p>
+</div>
+</body>
+</html>
+
+
+--B_3613024444_1723715258--
+
